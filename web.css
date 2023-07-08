@@ -1,0 +1,31 @@
+nav{
+    display: flex;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.nav-tital{
+    color: ;
+    font-size: 45px;
+    font-weight: 800;
+}
+.orng{
+    color: ;
+}
+nav > ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-left: 50px;
+
+}
+nav a{
+    text-decoration: none;
+    color: ;
+}
+.btn-clr{
+   border-radius: 5px; 
+   background: ;
+   color: ;
+}
